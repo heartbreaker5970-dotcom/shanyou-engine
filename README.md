@@ -97,7 +97,7 @@ v5 由女娲 Skill 按人物 Skill 新骨架重构。核心 SKILL.md 压到 220 
 
 - 格式：AI Skill（SKILL.md + references/），女娲新骨架
 - 版本：**v5**（v1-v4 单体 1238 行 → v5 重构为 220 行核心 + 案例库/原话库/底稿）
-- 旧版备份：`SKILL-v1.md`
+- 旧版全文：见 Git 历史，提交 `68e79e2` 中的 `SKILL.md`（约 1238 行单体旧版）
 - 调研源：得到大脑「李善友」知识库 52 篇（2026-11-19 采集）
 - 重构者：初一（初晨子的数字助理）
 - 原始创建者：[花叔](https://x.com/AlchainHust)；生成工具：[女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill)
